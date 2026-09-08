@@ -1,0 +1,22 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.cabecario{
+    text-align: center;
+    background-color: rgb(236, 209, 209);
+    justify-content: center;
+    display: flex;
+    gap: 1rem;
+}
+
+.cabecario-link{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 0.8rem;
+    padding: 1rem;
+}
+.cabecario-icone{
+    padding: 1rem; 
+}
